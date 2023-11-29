@@ -260,7 +260,7 @@ h1 {
     position: relative;
 }
 
-.mudar-cor {
+ .mudar-cor {
     width: 3rem;
     height: 3rem;
     border-radius: 20rem;
@@ -270,13 +270,13 @@ h1 {
     margin-top: 33.5rem;
     max-width: 100%;
     background-color: #FF5678;
-    border: 0.3rem solid #35E6E9;
+    border: 0.5rem solid #35E6E9;
     transition: all 300ms ease-in-out;
 }
 
 .mudar-cor:hover {
     background-color: #35E6E9;
-    border: 0.3rem solid #FF5678;
+    border: 0.4rem solid #FF5678;
     transform: scale(1.3);
 }
 header .mudar-cor{
@@ -284,7 +284,7 @@ header .mudar-cor{
     margin-left: 15rem;
 }
 
-
+    
 @media (max-width: 1290px) {
 
     main {
@@ -470,7 +470,6 @@ header .mudar-cor{
     margin-top: -6.5rem;
     margin-left: 18rem;
 }
-
 
 }
 
