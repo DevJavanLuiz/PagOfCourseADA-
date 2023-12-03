@@ -70,15 +70,8 @@ main .btn a {
 
 main .btn-login {
     color: #FFFFFF;
-    background-color: #35E6E9;
-    margin-top: 3.6rem;
-}
-
-main .btn-login+.btn-login {
-    color: #FFFFFF;
     background-color: #FF5678;
-    margin-top: 3.7rem;
-
+    margin-top: 3.6rem;
 }
 
 footer a {
@@ -141,7 +134,7 @@ form {
 .btn-cadastrar {
     text-decoration: none;
     display: flex;
-    background-color: #35E6E9;
+    background-color: #FF5678;
     height: 5.5rem;
     border-radius: 14rem;
     font-size: 2.4rem;
@@ -592,4 +585,11 @@ header .mudar-cor{
     header .mudar-cor{
         margin-left: 7rem;
     }
+}
+.mudar-cor-click{
+    color: #35E6E9;
+}
+
+.mudar-background-click{
+    background-color: #35E6E9;
 }
